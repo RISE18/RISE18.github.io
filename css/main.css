@@ -1,0 +1,38 @@
+p{
+			color: black;
+			font-size: 32px;
+			    font-family: 'Press Start 2P', cursive;
+			}
+			span{
+				background-color:white;
+		}
+		@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lobster&display=swap');
+		p{
+			font-family: 'Lobster', cursive;
+			color: purple;
+			font-size: 20px;
+		}colo
+		h1{
+			font-family: 'Comfortaa', cursive;
+			color: darkslategray;
+			font-size: 60px;
+		}
+		a{
+			text-decoration: none;
+			color: blue;
+			font-size: 50px;
+
+
+		}
+		div{
+			width: 100;
+			font-size: 20;
+			color: purple;
+			font-family: Lobster;
+
+		}
+		p{
+			font-size: 50px;
+			font-family:Lobster ;
+			color:purple ;
+		}

@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"rect"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"t",
+				"text_rect"
+			],
+			[
+				"head_",
+				"head_rect"
+			],
+			[
+				"ga",
+				"GAME_POINTS"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"apple",
+				"apple_rect"
+			],
+			[
+				"a",
+				"apple_rect"
+			],
+			[
+				"hea",
+				"head_rect"
+			],
+			[
+				"app",
+				"apple_rect"
+			],
+			[
+				"ap",
+				"apple_rect"
+			],
+			[
+				"he",
+				"head_rect"
+			],
+			[
+				"sce",
+				"screen"
+			],
+			[
+				"load",
+				"load_image"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"colum",
+				"column-gap\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"r",
+				"Roadhog1"
+			],
+			[
+				"ease",
+				"ease"
+			],
+			[
+				"p",
+				"Pharah1"
+			],
+			[
+				"e",
+				"Echo1"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"inn",
+				"inline-block\tdisplay"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"ene",
+				"enemy_accuracy"
+			],
+			[
+				"h",
+				"hero_max_damage"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"spr",
+				"sprite"
+			],
+			[
+				"P",
+				"paddle"
+			],
+			[
+				"mo",
+				"mouseX"
+			],
+			[
+				"DI",
+				"DISPLAYWIDTH"
+			],
+			[
+				"Di",
+				"DISPLAYWIDTH"
+			],
+			[
+				"s",
+				"screen"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"set",
+				"set_repeat"
+			],
+			[
+				"f",
+				"flip"
+			],
+			[
+				"b",
+				"blit"
+			],
+			[
+				"R",
+				"Raindow"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"se",
+				"selection-subtitle"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"back-g",
+				"background-color\tproperty"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"firs",
+				"first-item"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"D",
+				"DISPLAYWIDTH"
+			],
+			[
+				"ve",
+				"vectory"
+			],
+			[
+				"BLO",
+				"BLOCK"
+			],
+			[
+				"sprite",
+				"spriteHitList"
+			],
+			[
+				"bl",
+				"blocks"
+			],
+			[
+				"G",
+				"Group"
+			],
+			[
+				"Pa",
+				"PADDLEHEIGHT"
+			],
+			[
+				"S",
+				"Sprite"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"lead",
+				"lead_y"
+			],
+			[
+				"lea",
+				"lead_x"
+			],
+			[
+				"sn",
+				"snakeHead"
+			],
+			[
+				"game",
+				"gameDisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/козлова/index.html",
+		"/C/Users/CODDY/Desktop/ScratchJr.lnk",
+		"/C/Users/CODDY/Desktop/CodeCombat.lnk",
+		"/E/самбреро/page1.html",
+		"/E/самбреро/index.html",
+		"/C/Users/CODDY/Documents/2.html",
+		"/E/task4.py",
+		"/E/кодей",
+		"/C/Users/CODDY/Desktop/css/media.css",
+		"/C/Users/CODDY/Desktop/css/main.css",
+		"/C/Users/CODDY/Desktop/index.html",
+		"//192.168.1.105/Coddy1/толик/бесплатные читы для маинкрафта.Беру!!!!!!!!/game2.py",
+		"/C/Users/CODDY/Desktop/лоцклицащпкм.py",
+		"/C/Users/CODDY/Desktop/img/t4.svg",
+		"/C/Users/CODDY/Desktop/img/thought.svg",
+		"/C/Users/CODDY/Desktop/img/1t.svg",
+		"/C/Users/CODDY/Desktop/Новая папка/Snake.py",
+		"//192.168.1.112/Coddy1/Занятие №11/Новая папка/Snake.py",
+		"/C/Users/CODDY/Desktop/Snake.py",
+		"/C/Users/CODDY/Desktop/Snake0 — копия.py",
+		"/D/python/fonk.py",
+		"/D/python/kurama1.py",
+		"/D/kurama1.py",
+		"/C/Users/CODDY/Desktop/gallary2/css/main.css",
+		"/C/Users/CODDY/Desktop/gallary2/index.html",
+		"/C/Users/CODDY/Desktop/OVERWATCH.html",
+		"/C/Users/CODDY/Desktop/галерея1.zip",
+		"/E/web/cs/style.css",
+		"/E/web/page3.html",
+		"/E/web/INDEX.HTML",
+		"/D/web/index.html",
+		"/E/Chupakabra.py",
+		"/E/php/AdminLTE-master/blog/admin/in.php",
+		"/E/php/AdminLTE-master/blog/admin/user.php",
+		"/E/php/AdminLTE-master/blog/admin/config.php",
+		"/E/php/OSPanel/domains/localhost/5/index.php",
+		"/E/php/AdminLTE-master/blog/admin/index.php",
+		"/E/php/OSPanel/domains/localhost/index.php",
+		"/E/Игра.py",
+		"/E/Играрьш.py",
+		"/E/php/OSPanel/domains/localhost/5/report.php",
+		"/E/web/page2.html",
+		"/E/web/index.html",
+		"/E/web/CSS/style.css",
+		"/E/web/CSS/css style.css",
+		"/C/Users/CODDY/Desktop/arcanoid0/nothing.py",
+		"/C/Users/CODDY/Desktop/arcanoid0/breakout0.py",
+		"/C/OSPanel/domains/localhost/3/while.php",
+		"/C/OSPanel/domains/localhost/3/таблица умножения.php",
+		"/C/OSPanel/domains/localhost/3/for.php",
+		"/C/OSPanel/domains/localhost/3/массив.php",
+		"/E/1.py",
+		"/C/web/PAGE2.HTML",
+		"/C/web/index.html",
+		"/C/OSPanel/domains/localhost/2/2.py",
+		"/C/OSPanel/domains/localhost/2/anketa.html",
+		"/C/OSPanel/domains/localhost/2/1.php",
+		"/E/углублёный веб мастеринк/1.ru",
+		"/C/OSPanel/domains/localhost/info.php",
+		"/C/OSPanel/domains/localhost/1.php",
+		"/C/OSPanel/domains/localhost/anketa.html",
+		"/C/Users/CODDY/Desktop/БЛОГ/index.html",
+		"/C/Users/CODDY/Desktop/БЛОГ/css/main.css",
+		"/E/веб сайты/рома/css/media.css",
+		"/E/веб сайты/рома/css/style.css",
+		"/E/веб сайты/рома/index.html",
+		"/E/веб сайты/рома/index-2.html",
+		"/E/веб сайты/рома/css/css 2.css",
+		"/E/веб сайты/рома/css/css_2.css",
+		"/D/python_game_3/snake0.py",
+		"/D/python_game_3/head.png",
+		"/D/python_game_3/coin.png",
+		"/D/python_game_3/body.png",
+		"/D/python_game_3/bg.jpg",
+		"/D/python_game_3/apple.png",
+		"/D/python_game_3/third_program.py",
+		"/D/python_game_3/program_8.py",
+		"/E/веб сайты/рома/css-2/carousel.css",
+		"/E/веб сайты/рома/css-2/bootstrap-4.4.1-dist/css/bootstrap.css",
+		"/E/веб сайты/рома/css-2/bootstrap-4.4.1-dist/css/bootstrap-grid.css",
+		"/E/веб сайты/рома/css/brands.min.css",
+		"/E/веб сайты/рома/css/all.css",
+		"/E/pg-8/menu.py",
+		"/E/python_game_6_begin/third_program.py",
+		"/E/pg-8/third_program.py",
+		"/E/,/index.html",
+		"/E/,/css/style.css",
+		"/E/python_game_6_begin  12/third_program.py",
+		"/D/python_game_6_begin.zip",
+		"/E/python_game_3/third_program.py",
+		"//192.168.1.2/Coddy access/ЗАЩИТА ПРОЕКТА/Юрченко Вадим/Redaktor_izobrazheniy.py",
+		"/D/pg7/third_program.py",
+		"/E/python_game_3/7.py",
+		"/E/,/css/media.css",
+		"/D/Downloads/result.svg",
+		"/D/Downloads/study.svg",
+		"/D/ЮрченкоВадим/Занятие 14/Uganday chislo.py",
+		"/D/python_game_3/third_program_.py",
+		"/D/python_game_3/7.py",
+		"/D/python_game_3/5.py",
+		"//192.168.1.2/Coddy access/Юрченко Вадим/картинка.py",
+		"/D/python_game_3/6.py",
+		"/C/Users/CODDY/Desktop/07.12/index.html",
+		"/E/чат боты/09.11(викторина)/Викторина.py",
+		"/E/чат боты/09.11(викторина)/викторина с жизнью.py",
+		"/E/чат боты/11.01/fail.py",
+		"/Z/Чурбанов Михаил/redactor.py",
+		"/E/чат боты/21.12/fail.py",
+		"/D/python_game_3/3.ру.py",
+		"/D/python_game_3/2.py",
+		"/D/python_game_3/second_program.py",
+		"/D/python_game_3/4ру.py",
+		"/D/python_game_3/4.ру",
+		"/E/,/css/main.css",
+		"/D/ЮрченкоВадим/Занятие 13/картинка — копия.py",
+		"/D/ЮрченкоВадим/Занятие 13/картинка.py",
+		"/D/Python_game/second_program_k.py",
+		"/D/Python_game/first_program_k.py",
+		"/D/ЮрченкоВадим/Занятие 12/spisook4.py",
+		"/D/ЮрченкоВадим/Занятие 12/найти ошибки.py",
+		"/D/ЮрченкоВадим/Занятие 11/photo.py",
+		"/D/ЮрченкоВадим/Занятие 12/YouTube.py",
+		"/D/ЮрченкоВадим/Занятие 5/vadimARBUZ.py",
+		"//192.168.1.2/Coddy access/viktorina.py",
+		"//192.168.1.2/Coddy access/Баранов Александр/Александр Баранов/БОТЫ/viktorina.py",
+		"//192.168.1.2/Coddy access/Занятие №12/найти ошибки.py",
+		"/D/ЮрченкоВадим/Занятие 7/viktorina.py",
+		"/D/ЮрченкоВадим/Занятие 12/Че.py"
+	],
+	"find":
+	{
+		"height": 209.6
+	},
+	"find_in_files":
+	{
+		"height": 622.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 209.6
+	},
+	"input":
+	{
+		"height": 221.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "page1.sublime-project",
+	"replace":
+	{
+		"height": 416.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
