@@ -1,0 +1,45 @@
+
+	@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Rubik+Dirt&display=swap');: 0;
+	margin: 0;
+	box-sizing: border-box;
+*{
+}
+body{
+	background-color: #aaa;
+}
+.main{
+	background-color: #fff;
+	display: flex;
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+	flex-wrap: wrap;
+}
+.item{
+	max-height: 265;
+	max-width: 480;
+	height: calc(95vw / 2 / 16 * 9);
+	width: calc(90vw - 10px);
+	background-color: seagreen;
+	margin: 5px;
+	background-position: center;
+	background-size: cover;
+}
+.heading{
+	font-size: 48px;
+	width: 100%;
+	padding: 30px;
+	font-family: 'Rubik Dirt', cursive;
+	color: purple;
+	text-align: center;
+}
+.img_link{
+	display: block;
+	opacity: 0.6;
+	transition: 0.5s ease;
+}
+.img_link:hover{
+	opacity: 1;
+	transform: scale(1.2);
+}
