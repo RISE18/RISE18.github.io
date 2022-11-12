@@ -1,1 +1,1 @@
-# RISE18.github.io
+# rise.github.io
